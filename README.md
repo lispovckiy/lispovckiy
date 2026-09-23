@@ -6,7 +6,7 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, debian, git,vim,c,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=github,debian,git,vim,c,cpp,linux" />
   </a>
 
 ### Projects
