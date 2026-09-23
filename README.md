@@ -2,7 +2,7 @@
   
 ### Hi there, I'm Lispovckiy👋
 
-## Programming languages ​​i know
+### Programming languages ​​i know
 
 <img src="https://skillicons.dev/icons?i=c,cpp" />
 
