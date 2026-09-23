@@ -2,6 +2,9 @@
   
 ### Hi there, I'm Lispovckiy👋
 
+### My Os
+  <img src="https://skillicons.dev/icons?i=debian" />
+
 ### My Stack
 
 
