@@ -2,14 +2,11 @@
   
 ### Hi there, I'm Lispovckiy👋
 
-### My Os
-  <img src="https://skillicons.dev/icons?i=debian" />
-
 ### My Stack
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=github, debian, git,vim,c,cpp,linux" />
   </a>
 
 ### Projects
