@@ -6,9 +6,10 @@
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,debian,git,vim,c,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=github,git,vim,linux,debian" />
   </a>
 
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 ### Projects
 
 [![lispm](https://raw.githubusercontent.com/lispovckiy/lispm/main/lispm.png)](https://github.com/lispovckiy/lispm)
