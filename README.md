@@ -16,7 +16,7 @@
   
 ### Projects
 
-[![lxwm](https://raw.githubusercontent.com/lispovckiy/lixm/main/lixm.png)](https://github.com/lispovckiy/lixm)
+[![lxwm](https://raw.githubusercontent.com/lispovckiy/lxwm/main/lxwm.png)](https://github.com/lispovckiy/lxwm)
 
 
 </p>
