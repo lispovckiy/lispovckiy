@@ -58,7 +58,7 @@ A tiling window manager for X11 written in x86-64 NASM assembly.<br>
 
 <br><br>
 
-<sub>Copyright (c) 1996-2026 lispovckiy. All rights reserved.</sub><br>
+<sub>Copyright (c) 1996-2026 lispovckiy. All rights stoled.</sub><br>
 <sub>This page is best viewed at 800x600 in 256 colors.</sub>
 
 </div>
