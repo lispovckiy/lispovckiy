@@ -19,7 +19,7 @@
 ## ⚙️ Featured project
 
 <a href="https://github.com/lispovckiy/rawm">
-  <img src="https://raw.githubusercontent.com/lispovckiy/rawm/main/rawm.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/lispovckiy/rawm/main/rawm.png" width="30%" />
 </a>
 
 **rawm** is a tiling window manager for X11 written in x86-64 NASM assembly.
