@@ -16,8 +16,5 @@
   
 ### Projects
 
-[![rawm](https://raw.githubusercontent.com/lispovckiy/rawm/main/rawm.png)](https://github.com/lispovckiy/rawm)
-
-
 </p>
 </div>
