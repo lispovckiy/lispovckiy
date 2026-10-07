@@ -19,20 +19,9 @@ I run <b>Debian</b> and edit everything in <b>Vim</b>.
 
 <h2><u>My Projects</u></h2>
 
-<table>
-<tr>
-<td align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo.svg">
-  <img src="logo-light.svg" alt="rawm" width="300">
-</picture>
-<br><br>
-<a href="https://github.com/lispovckiy/rawm"><b>rawm</b></a><br>
-A tiling window manager for X11 written in x86-64 NASM assembly.<br>
-<i>Click the picture to visit the project page!</i>
-</td>
-</tr>
-</table>
+<a href="https://github.com/lispovckiy/rawm"><img src="project.svg" width="800" alt="rawm - a tiling window manager for X11" /></a>
+
+<i>Click the window to visit the project page!</i>
 
 <img src="rainbow.svg" width="800" height="8" alt="" />
 
