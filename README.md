@@ -24,7 +24,7 @@ I run <b>Debian</b> and edit everything in <b>Vim</b>.
 <td align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo.svg">
-  <img src="logo-light.svg" alt="rawm" width="420">
+  <img src="logo-light.svg" alt="rawm" width="300">
 </picture>
 <br><br>
 <a href="https://github.com/lispovckiy/rawm"><b>rawm</b></a><br>
