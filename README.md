@@ -22,7 +22,10 @@ I run <b>Debian</b> and edit everything in <b>Vim</b>.
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/lispovckiy/rawm"><img src="https://raw.githubusercontent.com/lispovckiy/rawm/main/rawm.png" width="300" alt="rawm" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo.svg">
+  <img src="logo-light.svg" alt="rawm" width="420">
+</picture>
 <br><br>
 <a href="https://github.com/lispovckiy/rawm"><b>rawm</b></a><br>
 A tiling window manager for X11 written in x86-64 NASM assembly.<br>
