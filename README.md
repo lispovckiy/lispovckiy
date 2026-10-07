@@ -47,7 +47,7 @@ I run <b>Debian</b> and edit everything in <b>Vim</b>.
 
 <br><br>
 
-<sub>Copyright (c) 1996-2026 lispovckiy. All rights stoled.</sub><br>
+<sub>Copyright (c) 1996-2026 lispovckiy. All rights stoled. *stolex *stoleg *stolen </sub><br>
 <sub>This page is best viewed at 800x600 in 256 colors.</sub>
 
 </div>
